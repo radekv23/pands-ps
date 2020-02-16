@@ -2,12 +2,14 @@
 # At each step calculate the next value by taking the current value and, if it is even, divide it by two,
 #  but if it is odd, multiply it by three and add one. Have the program end if the current value is one.
 
-positive = input(int("Enter posivive value:"))
+positive = int(input("Enter posivive value:"))
 
+while positive != 1:
 if (positive % 2) == 0 
-    print("Yor value is even.")
     positive = positive / 2
+    print("Yor value is even. And it is: ", positive)
 elif:
-    odd = (positive *3) + 1
+    positive = (positive *3) + 1
+    print("Yor value is odd. And it is: ", positive)
 break positive == 1
 
