@@ -7,4 +7,3 @@ sentence = str(input('Enter your sentence:'))
 #showing our results
 print(sentence[::-2])
 
-# why no commit?
