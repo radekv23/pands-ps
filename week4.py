@@ -5,13 +5,20 @@
 #asking for input
 positive = int(input("Enter posivive value:"))
 
-#starting while loop to get results
-while positive != 1:
-if int(positive) % 2  == 0
-    positive = positive / 2
-    print("Yor value is even. And it is: ", positive)
-elif:
-    positive = (positive *3) + 1
-    print("Yor value is odd. And it is: ", positive)
-break positive == 1
+#if input is negative value print message and stop
+while positive < 0:
+    print (positive,"is not a positive number")
+    break
 
+#prints input when positive
+while positive > 0:
+    print (positive)
+    break
+
+#perform calculations until equals 1
+while positive > 1:
+    if positive % 2 == 0:
+        positive =  int(positive/2)
+    else:
+        positive = int((positive*3)+1)
+    print (positive)
