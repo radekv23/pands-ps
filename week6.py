@@ -10,7 +10,7 @@ def sqrt (s):
     return sq
 
 #getting input
-s=float(input("Enter value to be squared: "))
+s=float(input("Enter your value to be squared: "))
 
 #printing result
 print(sqrt(s))
