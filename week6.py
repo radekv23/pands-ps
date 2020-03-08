@@ -1,5 +1,6 @@
 #Write a program that takes a positive floating-point number as input and outputs an approximation of its square root.
-# You should create a function called sqrt that does this.
+# Radoslaw Wojtczak - G00352936
+#  You should create a function called sqrt that does this.
 
 #importing math functions
 import math

@@ -1,3 +1,4 @@
+# Radoslaw Wojtczak - G00352937
 # This is a program to calculate
 # BMI (body maas index)
 

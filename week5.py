@@ -1,3 +1,4 @@
+# Radoslaw Wojtczak - G00352937
 #Write a program that outputs whether or not today is a weekday. An example of running this program on a Thursday is given below.git add.#
 
 #importing required packed 

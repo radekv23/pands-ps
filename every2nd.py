@@ -1,3 +1,4 @@
+# Radoslaw Wojtczak - G00352937
 # program that take string input 
 # and change it for every second character in revers
 
