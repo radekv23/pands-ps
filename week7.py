@@ -1,6 +1,6 @@
 # Radoslaw Wojtczak - G00352937
-# Write a program that reads in a text file and outputs the number of e's it contains. 
-# The program should take the filename from an argument on the command line.
+# program that reads in a text file and outputs the number of e's it contains. 
+# The program take the filename from an argument on the command line.
 
 
 # variables : file for getting txt from user and counter to start counting "e"
