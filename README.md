@@ -1,6 +1,6 @@
 # Problem Set Solutions 2020 - Programming and Scripting
 
-This readme contains the problems sets for Problem Set Assessment 2029, for Programming and Scripting module (GMIT H.Dip Data Analytics).
+This readme contains the problems sets for Problem Set Assessment 2020, for Programming and Scripting module (GMIT H.Dip Data Analytics).
 
 ## Problem 1 - bmi.py
 Program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared
