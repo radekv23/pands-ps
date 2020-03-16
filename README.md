@@ -20,6 +20,9 @@ Program that takes a positive floating-point number as input and outputs an appr
 ## Problem 6 - Es.py
 Program that reads in a text file and outputs the number of e's it contains. Program take the filename from an argument on the command line.
 
+## Problem 7 - functionPlot.py
+Program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
+
 
 ### Built With
 
