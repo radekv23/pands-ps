@@ -2,6 +2,8 @@
 
 This readme contains the Problem Set Assessment, for Programming and Scripting module (GMIT Higher Diploma in Data Analytics 2020).
 
+# List of problems:
+
 ## Problem 1 - bmi.py
 Program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared
 
