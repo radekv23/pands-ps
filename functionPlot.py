@@ -6,14 +6,17 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# setting up variables
 x = np.linspace(1.0, 4.0, 100)
 g = x**2
 h = x**3
 
+#ploting
 plt.plot(x, g,'g.', label="squared")
 plt.plot(x, h,'r.', label="**3")
 plt.show()
 
+#plot legend
 plt.legend()
 plt.title("First Plot")
 plt.xlabel("x")

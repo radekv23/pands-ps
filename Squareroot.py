@@ -2,14 +2,18 @@
 # Radoslaw Wojtczak - G00352936
 #  creating a function called sqrt that does this.
 
-#creating function called sqrt
-def sqrt (s)
-    sq=s ** 0.5
-#getting input
-s=float(input("Enter your value to be squared: "))
+# Enter positive floating point number as input.
+s = float(input('Please, enter a positive number: '))
 
-#printing result
-print(sqrt(s))
+# You store the number in s and find the square root using the **
+if s < 0:
+    print("Please, enter a positive number.")
+else:
+   sqrt = s ** 0.5
+
+# printing the square root
+print('The square root is ', sqrt)
+
 
 
 #Second version delet '#'
