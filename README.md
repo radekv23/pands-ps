@@ -24,8 +24,11 @@ Program that reads in a text file and outputs the number of e's it contains. Pro
 ### Built With
 
 Python - https://www.python.org/downloads/
+
 Visual studio code - https://code.visualstudio.com/download
+
 cmder - https://cmder.net/
+
 Anaconda - https://www.anaconda.com/distribution/
 
 
