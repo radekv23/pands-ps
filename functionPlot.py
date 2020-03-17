@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Setting range from 0 to 4
-x= np.arange(0,4)
+x= np.arange(0,4, 0.1)
 
 # calculating y values
 y = x
