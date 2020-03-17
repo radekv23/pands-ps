@@ -11,8 +11,8 @@ x= np.arange(0,4)
 
 # calculating y values
 y = x
-y2 = 2 * x
-y3 = x*x
+y2 = x * x
+y3 = x * x * x
 
 # Adding graph title and labels to X and Y axis
 plt.title("Function Plot x (green), 2x (red), x2 (blue); range = [0, 4]")
