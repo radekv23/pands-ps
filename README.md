@@ -4,25 +4,25 @@ This readme contains the Problem Set Assessment, for Programming and Scripting m
 
 # List of problems:
 
-## Problem 1 - bmi.py
+## Problem 1 - [bmi.py](https://github.com/radekv23/pands-ps/blob/master/bmi.py)
 Program that calculates somebody's Body Mass Index (BMI). The inputs are the person's height in centimetres and weight in kilograms. The output is their weight divided by their height in metres squared
 
-## Problem 2 - SecondString.py
+## Problem 2 - [SecondString.py](https://github.com/radekv23/pands-ps/blob/master/secondString.py)
 Program that takes asks a user to input a string and outputs every second letter in reverse order.
 
-## Problem 3 - Collatz.py
+## Problem 3 - [Collatz.py](https://github.com/radekv23/pands-ps/blob/master/Collatz.py)
 Program that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide it by two, but if it is odd, multiply it by three and add one. Have the program end if the current value is one.
 
-## Problem 4 - WeekDay.py
+## Problem 4 - [WeekDay.py](https://github.com/radekv23/pands-ps/blob/master/WeekDay.py)
 Program that outputs whether or not today is a weekday.
 
-## Problem 5 - Squareroot.py
+## Problem 5 - [Squareroot.py](https://github.com/radekv23/pands-ps/blob/master/Squareroot.py)
 Program that takes a positive floating-point number as input and outputs an approximation of its square root.
 
-## Problem 6 - Es.py
+## Problem 6 - [Es.py](https://github.com/radekv23/pands-ps/blob/master/Es.py)
 Program that reads in a text file and outputs the number of e's it contains. Program take the filename from an argument on the command line.
 
-## Problem 7 - functionPlot.py
+## Problem 7 - [functionPlot.py](https://github.com/radekv23/pands-ps/blob/master/functionPlot.py)
 Program that displays a plot of the functions f(x)=x, g(x)=x2 and h(x)=x3 in the range [0, 4] on the one set of axes.
 
 
