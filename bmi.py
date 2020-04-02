@@ -7,7 +7,7 @@ weight = float(input("Enter yout weight in kg: "))
 height = float(input("Enter yout height in cm: "))
 
 #calculating m2
-meters = (height * height) *10000
+meters = (height * height) *100
 
 #calculating BMI
 bmi = (weight / meters) 
